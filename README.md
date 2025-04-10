@@ -1,0 +1,2 @@
+# Studio Ghibli Revenue Analysis
+ 
