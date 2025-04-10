@@ -6,7 +6,7 @@ This a revenue analysis done by examing various factors like director, budget, g
 4. Seaborn
 
 Future work: 
-Will deploy using streamlit for easier visualisation
+Will deploy using streamlit for dynamic visualisation
 
 
 
