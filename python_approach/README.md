@@ -5,5 +5,8 @@ This a revenue analysis done by examing various factors like director, budget, g
 3. Matplotlib
 4. Seaborn
 
-Streamlit was used to display these findings on a streamlit based app.  
+Future work: 
+Will deploy using streamlit for easier visualisation
+
+
 
