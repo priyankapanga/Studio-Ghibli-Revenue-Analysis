@@ -7,3 +7,5 @@ This is a studio ghibli revenue analysis project with two approaches:
 
 Each of these are found in their respective folders. 
 
+Please visit the streamlit app here: [
+](https://priyankapanga-studio-ghibli-revenue-analysis.streamlit.app)
