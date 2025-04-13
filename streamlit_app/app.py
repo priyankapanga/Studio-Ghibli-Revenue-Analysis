@@ -7,7 +7,12 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
 # Load the dataset
-movie_data = pd.read_csv('Studio Ghibli Films.csv')
+import os
+csv_path = os.path.join(os.path.dirname(__file__), 'Studio Ghibli Films.csv')
+movie_data = pd.read_csv(csv_path)
+
+
+#movie_data = pd.read_csv('Studio Ghibli Films.csv')
 
 # Clean Revenue column
 movie_data['Revenue'] = movie_data['Revenue'].replace('[\$,]', '', regex=True).astype(float)
